@@ -2,7 +2,11 @@
 
 # Hi, I'm Ahmed Mousa 👋
 
-### 📊 Accounting Graduate & Aspiring Data Analyst
+
+### 📊 Data Analyst | Accounting Graduate | Financial & Business Analytics
+
+</div>
+
 
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60%">
 
