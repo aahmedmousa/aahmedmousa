@@ -133,7 +133,7 @@ Bachelor of Commerce (Accounting Major) – Graduated with a Very Good Grade
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/ahmedmousa-data](http://www.linkedin.com/in/ahmedmousa-data)
-* GitHub: github.com/aahmedmousa
+* GitHub:(https://github.com/aahmedmousa)
 
 > Turning Data into Actionable Business Insights.
 
