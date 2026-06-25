@@ -4,7 +4,7 @@
 
 ### 📊 Accounting Graduate & Aspiring Data Analyst
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5lM3NqNzN4aWh2N2V4eHdzM2dqYmE4aGdrdWxuN2k0eWZlM2VxNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="50%">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60%">
 
 <br>
 
@@ -72,7 +72,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN
-* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: https://www.linkedin.com/in/ahmedmousa-data
+  
+* GitHub: https://github.com/aahmedmousa
 
 > "Turning Data into Insights."
