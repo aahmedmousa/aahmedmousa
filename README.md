@@ -16,7 +16,7 @@
 
 ## 👨‍💼 About Me
 
-* 🎓 Commerce Graduate (Accounting Major)
+* 🎓 Commerce Graduate (Accounting Major) – Very Good Grade
 * 📊 Passionate about Data Analytics and Business Intelligence
 * 📚 Currently Learning SQL, Power BI, Statistics, and Advanced Excel
 * 💼 Interested in Financial Analysis, Reporting, and Dashboard Design
