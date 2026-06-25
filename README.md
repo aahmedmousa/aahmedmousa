@@ -34,13 +34,17 @@
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Areas of Expertise
 
-* SQL for Data Analysis
-* Power BI
-* Data Visualization
-* Statistics
-* Business Intelligence Concepts
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Financial Analysis
+- KPI Development & Monitoring
+- Statistical Analysis
+- Business Performance Analysis
+- Reporting & Decision Support
 
 ---
 
