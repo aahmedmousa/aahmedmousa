@@ -20,35 +20,47 @@
 
 ## 👨‍💼 About Me
 
-* 🎓 Commerce Graduate (Accounting Major) – Very Good Grade
-* 📊 Passionate about Data Analytics and Business Intelligence
-* 📚 Currently Learning SQL, Power BI, Statistics, and Advanced Excel
-* 💼 Interested in Financial Analysis, Reporting, and Dashboard Design
-* 🚀 Building projects to improve my analytical skills
+I am a Data Analyst with a strong background in Accounting and Finance, holding a Bachelor of Commerce degree with a Very Good grade.
+
+I specialize in transforming raw data into meaningful insights through data analysis, visualization, and performance reporting. My expertise in Excel, SQL, and Power BI enables me to analyze business performance, track KPIs, and support data-driven decision-making.
+
+By combining analytical skills with accounting and financial knowledge, I aim to help businesses improve performance, identify opportunities, and make informed strategic decisions.
 
 ---
+
+## 🎯 Professional Profile
+
+* 📊 Data Analyst with expertise in Excel, SQL, and Power BI.
+* 💰 Strong academic background in Accounting and Finance.
+* 📈 Skilled in Data Analysis, Data Visualization, and Dashboard Development.
+* 📋 Experienced in KPI Tracking, Performance Analysis, and Business Reporting.
+* 📊 Strong understanding of Statistical Analysis and Data-Driven Decision Making.
+* 💡 Able to transform complex data into actionable business insights.
+* 🚀 Passionate about leveraging data to improve business performance and support strategic decisions.
+
 
 ## 🛠️ Tools & Skills
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
+### Tools
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-![Statistics](https://img.shields.io/badge/Statistics-00599C?style=flat)
-![Accounting](https://img.shields.io/badge/Accounting-0A66C2?style=flat)
 
----
+### Skills
 
-## 🎯 Areas of Expertise
-
-- Data Analysis
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
-- Financial Analysis
-- KPI Development & Monitoring
-- Statistical Analysis
-- Business Performance Analysis
-- Reporting & Decision Support
+* Data Analysis
+* Data Visualization
+* Dashboard Development
+* Data Cleaning & Transformation
+* KPI Design & Tracking
+* Business Analysis
+* Financial Analysis
+* Statistical Analysis
+* Reporting & Insights
+* Decision Support
 
 ---
 
@@ -61,7 +73,7 @@
 * Analyzed customer churn data to identify patterns and factors affecting customer retention.
 * Segmented customers based on behavioral and demographic characteristics.
 * Performed exploratory data analysis to uncover trends and risk indicators.
-* Developed interactive reports and visualizations to monitor churn performance.
+* Built interactive dashboards and visualizations to monitor customer churn trends.
 * Generated actionable insights to support customer retention and business growth strategies.
 
 ---
@@ -70,9 +82,9 @@
 
 **Tools:** Microsoft Excel
 
-Designed and developed an interactive business dashboard to support data-driven decision making across customer, sales, product, and store performance.
+Designed and developed an interactive business performance dashboard to support data-driven decision making across customer, sales, product, profitability, and store performance.
 
-#### Key Business Insights
+#### Key Analyses
 
 **Customer Analysis**
 
@@ -114,18 +126,16 @@ Designed and developed an interactive business dashboard to support data-driven 
 
 ---
 
-## 🎯 Goals
+## 🎓 Education
 
-* Become a Professional Data Analyst
-* Build Strong Portfolio Projects
-* Combine Accounting Knowledge with Data Analytics
+Bachelor of Commerce (Accounting Major) – Graduated with a Very Good Grade
 
 ---
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/ahmedmousa-data
-  
-* GitHub: https://github.com/aahmedmousa
+* LinkedIn: [www.linkedin.com/in/ahmedmousa-data](http://www.linkedin.com/in/ahmedmousa-data)
+* GitHub: github.com/aahmedmousa
 
-> "Turning Data into Insights."
+> Turning Data into Actionable Business Insights.
+
